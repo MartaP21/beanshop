@@ -1,5 +1,4 @@
 ---
-
 name:UserStoryReviewer
 description: Agent:AnalizatorHistoryjekUzytkownika
 ---
