@@ -5,7 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name:UserStoryReviewer
-description: Agent: Analizator Historyjek Użytkownika
+description: Agent:AnalizatorHistoryjekUzytkownika
 ---
 
 # My Agent
